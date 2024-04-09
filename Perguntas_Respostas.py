@@ -37,8 +37,12 @@ def questao():
 
         resposta_usuario = input('Resposta: ')
 
-        verificar_resposta(resposta_usuario, pergunta['Resposta'])
+        while not resposta_usuario.isdigit():
+            resposta_usuario = input('Resposta: ')
+        
 
+        verificar_resposta(resposta_usuario, pergunta['Resposta'])
+   
 
 def verificar_resposta(resposta, resposta_correta):
     global contador_acertos, contador_erros
