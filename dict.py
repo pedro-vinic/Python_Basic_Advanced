@@ -9,7 +9,7 @@ pessoa['sobrenome'] = 'Senna'
 pessoa['idade'] = 25
 
 print(pessoa) #Imprimindo dicionário
-print(pessoa['sobrenome']) #Acessando uma dhave do dict
+print(pessoa['sobrenome']) #Acessando uma chave do dict
 
 del pessoa['idade'] #Deletando uma chave
 
