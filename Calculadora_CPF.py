@@ -23,28 +23,25 @@ contrário disso:
 
 O primeiro dígito do CPF é 7
 """
+
+
 import re
 import sys
 import random
+
 
 cpf = ""
 
 for i in range(9):
     cpf += str(random.randint(0,9))
+    
 
-cpf_enviado = cpf
-
-entrada_sequencial = cpf == cpf[0] * len(cpf)
-
-if entrada_sequencial:
-    print("Você digitou número sequênciais.")
-    sys.exit()
-
-nove_digitos = cpf_enviado[:9]
+nove_digitos = cpf[:9]
 
 contador_regressivo_1 = int(10)
 
 resultado_1 = 0
+
 
 for digito in nove_digitos:
     resultado_1 += int(digito) * contador_regressivo_1
