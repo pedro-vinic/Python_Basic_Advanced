@@ -15,6 +15,7 @@ O objetivo deste repositório é documentar meu progresso no aprendizado de Pyth
 - **Perguntas_Respostas.py**: Simulação de um jogo de perguntas e respostas, com foco em condicionais e loops para verificar as respostas do usuário.
 - **Calculadora_Impostos.py**: Implementa uma calculadora de impostos com diferentes alíquotas usando closures e funções que retornam outras funções. Inclui uma simulação de efeito de carregamento antes de exibir os resultados.
 - **Sistema_Cadastro.py**: Implementa um sistema de cadastro e consulta utilizando funções com argumentos nomeados e posicionais, valores padrões e escopos de módulos.
+- **sistema_bancario.py**: Implementa um sistema bancário simples com funcionalidades de depósito, saque e extrato. Utiliza classes para gerenciar contas, usuários e operações bancárias.
 
 ## Como Executar
 
