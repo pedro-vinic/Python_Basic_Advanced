@@ -16,6 +16,8 @@ O objetivo deste repositório é documentar meu progresso no aprendizado de Pyth
 - **Calculadora_Impostos.py**: Implementa uma calculadora de impostos com diferentes alíquotas usando closures e funções que retornam outras funções. Inclui uma simulação de efeito de carregamento antes de exibir os resultados.
 - **Sistema_Cadastro.py**: Implementa um sistema de cadastro e consulta utilizando funções com argumentos nomeados e posicionais, valores padrões e escopos de módulos.
 - **sistema_bancario.py**: Implementa um sistema bancário simples com funcionalidades de depósito, saque e extrato. Utiliza classes para gerenciar contas, usuários e operações bancárias.
+- **calculadora_objetos.py**: Implementa uma calculadora utilizando programação orientada a objetos. O sistema inclui classes para definir operações matemáticas (`Calculadora`) e para exibir mensagens ao usuário (`Exibir`); a classe `Main` gerencia a interação com o usuário e a execução das operações de cálculo; suporte para operações de adição, subtração, multiplicação e divisão; validações de entrada e tratamento de erros, como divisão por zero e entradas inválidas.
+
 
 ## Como Executar
 
