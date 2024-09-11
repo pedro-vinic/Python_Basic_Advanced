@@ -13,8 +13,8 @@ O objetivo deste repositório é documentar meu progresso no aprendizado de Pyth
 - **Jogo_Palavra_Secreta.py**: Um jogo simples de adivinhação de palavras, onde o jogador tenta adivinhar a palavra secreta com base nas letras que ele vai escolhendo.
 - **Lista_Compras.py**: Um sistema simples para gerenciar uma lista de compras, permitindo adicionar e remover itens da lista.
 - **Perguntas_Respostas.py**: Simulação de um jogo de perguntas e respostas, com foco em condicionais e loops para verificar as respostas do usuário.
-- **calculadora_impostos.py**: Implementa uma calculadora de impostos com diferentes alíquotas usando closures e funções que retornam outras funções. Inclui uma simulação de efeito de carregamento antes de exibir os resultados.
-- **sistema_cadastro.py**: Implementa um sistema de cadastro e consulta utilizando funções com argumentos nomeados e posicionais, valores padrões e escopos de módulos.
+- **Calculadora_Impostos.py**: Implementa uma calculadora de impostos com diferentes alíquotas usando closures e funções que retornam outras funções. Inclui uma simulação de efeito de carregamento antes de exibir os resultados.
+- **Sistema_Cadastro.py**: Implementa um sistema de cadastro e consulta utilizando funções com argumentos nomeados e posicionais, valores padrões e escopos de módulos.
 
 ## Como Executar
 
